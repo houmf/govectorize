@@ -1,4 +1,4 @@
-package vectorize
+package govectorize
 
 import (
 	"hash/crc64"
